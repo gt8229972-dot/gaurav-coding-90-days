@@ -1,89 +1,66 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gaurav Coding - 90 Days Challenge</title>
-
-<meta name="description" content="Follow Gaurav's 90 Days Coding Challenge. Learn HTML, CSS and JavaScript step by step with projects and practice.">
-
-<style>
-body{
-font-family: Arial, sans-serif;
-background-color:#f7f7f7;
-margin:20px;
-}
-
-h1{
-color:#2c3e50;
-}
-
-h2{
-color:#34495e;
-}
-
-.day{
-background:#ecf0f1;
-padding:15px;
-margin:10px 0;
-border-left:5px solid #3498db;
-}
-
-.coming{
-color:#e74c3c;
-font-weight:bold;
-}
-
-.desc{
-background:#dfe6e9;
-padding:15px;
-margin:20px 0;
-border-left:5px solid #27ae60;
-}
-</style>
-
+<title>Gaurav Coding Journey</title>
 </head>
 
 <body>
 
-<h1>Gaurav Coding - 90 Days Challenge</h1>
+<h1>Gaurav Coding 90 Days Challenge</h1>
 
-<div class="desc">
-<p>
-This is my 90 Days Coding Challenge journey. I am learning web development step by step.
-Day 1 to Day 5 are completed. Day 6 to Day 90 will be added soon.
-</p>
-</div>
+<p>This is my web development learning journey.</p>
 
-<div class="day">
-<h2>Day 1 - HTML Basic</h2>
-<p>Completed</p>
-</div>
+<h2>Completed Days</h2>
 
-<div class="day">
-<h2>Day 2 - HTML Tags</h2>
-<p>Completed</p>
-</div>
+<h3>Day 1</h3>
+<p>HTML basic structure</p>
 
-<div class="day">
-<h2>Day 3 - Headings and Paragraph</h2>
-<p>Completed</p>
-</div>
+<h3>Day 2</h3>
+<p>Headings and Paragraph</p>
 
-<div class="day">
-<h2>Day 4 - Images and Links</h2>
-<p>Completed</p>
-</div>
+<h3>Day 3</h3>
+<p>Images and Links</p>
 
-<div class="day">
-<h2>Day 5 - HTML Lists</h2>
-<p>Completed</p>
-</div>
+<h3>Day 4</h3>
+<p>HTML Elements and Attributes</p>
 
-<div class="day">
-<h2>Day 6 to Day 90</h2>
-<p class="coming">Coming Soon</p>
-</div>
+<h3>Day 5</h3>
+<p>Lists in HTML</p>
+
+<h3>Day 6</h3>
+<p>Tables in HTML</p>
+
+<h3>Day 7</h3>
+<p>HTML Forms and Input Types</p>
+
+<h3>Day 8</h3>
+<p>Select Dropdown and Textarea</p>
+
+<h2>What I Learned</h2>
+
+<ul>
+<li>HTML structure</li>
+<li>Headings</li>
+<li>Paragraph</li>
+<li>Images</li>
+<li>Links</li>
+<li>Lists</li>
+<li>Tables</li>
+<li>Forms</li>
+<li>Input fields</li>
+<li>Select dropdown</li>
+<li>Textarea</li>
+</ul>
+
+<h2>Next Goal</h2>
+
+<p>Day 9 – Day 90</p>
+
+<p><b>Coming Soon...</b></p>
+
+<p>I will continue learning HTML, CSS, JavaScript and build projects.</p>
 
 </body>
+
 </html>
